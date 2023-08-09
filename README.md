@@ -1,6 +1,6 @@
 # movies_app
 
-A Flutter project.
+Application for viewing movies
 
 ## With :
    - provider(state management)
